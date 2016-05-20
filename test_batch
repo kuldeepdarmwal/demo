@@ -1,0 +1,25 @@
+
+echo Starting sonar analysis on Dev machine
+timeout /t 3
+@echo #######################################################
+:: Comments
+::C:\Users\kuldeep\Desktop\New folder (4)\ecomm_project
+
+::dir  > abc
+echo ############
+sonar-runner > aaa.txt
+
+@echo start analysis
+
+:: pause 
+::cmd /k 
+
+::pause > nul
+timeout /t 30 
+
+:: rem sonar-runner -v
+:: dir D:\setup\sonar-runner-dist-2.4\sonar-runner-2.4
+
+echo --------------------------
+@echo   test2
+echo --------------------------
